@@ -11,7 +11,7 @@ const font = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Real Estate Project | Next JS",
+  title: "Real Estate ",
   description: "Real Estate website using next js",
 };
 
